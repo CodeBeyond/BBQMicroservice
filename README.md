@@ -8,6 +8,7 @@ Clear instructions for how to RECEIVE data:
 Second, get the client .py file running. This will send over the full list of BBQ recipes and tips using the TCP server.
 
 Example code from the client to get tips and recipes:
+
 jsonFile = json.dumps(recipes)
 jsonFile2 = json.dumps(tips)
 
