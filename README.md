@@ -7,5 +7,4 @@ First, get the TCP server .py file running. Make sure all firewalls and anti-vir
 Clear instructions for how to RECEIVE data:
 Second, get the client .py file running. This will send over the full list of BBQ recipes and tips using the TCP server.
 
-UML sequence diagram:
-https://lucid.app/lucidchart/cc300582-ede8-4d32-99d5-64ba30596fa7/edit?viewport_loc=69%2C-71%2C1502%2C766%2C0_0&invitationId=inv_d8cc616f-72e3-460d-b58d-e1bfb8fa437b
+![microserviceUML](https://user-images.githubusercontent.com/77512059/220736364-07e798b2-e0d5-49f0-be0a-ff250f83c8b5.png)
